@@ -1,0 +1,1 @@
+export const WORKSPACE_MODEL="WORKSPACE_MODEL";
